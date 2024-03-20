@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "248460032944",
+    "firebase_url": "https://qlbanhang-a022d-default-rtdb.firebaseio.com",
+    "project_id": "qlbanhang-a022d",
+    "storage_bucket": "qlbanhang-a022d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248460032944:android:73356dc5ff4393cade7475",
+        "android_client_info": {
+          "package_name": "com.example.milktea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT0HccE7s5ValAJOGBtVT83shweuqE1w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248460032944:android:83da4761f02d7291de7475",
+        "android_client_info": {
+          "package_name": "com.example.phongthuy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT0HccE7s5ValAJOGBtVT83shweuqE1w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248460032944:android:4feb2ed5ef3a5678de7475",
+        "android_client_info": {
+          "package_name": "com.example.qlbanhang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT0HccE7s5ValAJOGBtVT83shweuqE1w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
